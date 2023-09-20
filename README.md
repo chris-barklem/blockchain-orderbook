@@ -1,4 +1,3 @@
-```markdown
 # Solidity Orderbook
 
 ## Overview
